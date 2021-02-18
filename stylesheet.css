@@ -489,6 +489,9 @@ ul li a{
 
 
 }
+ul li:nth-child(5) a{
+    color: rgb(179, 68, 163);
+    }
 ul li a:hover{
     
     color: rgb(199, 184, 184);
